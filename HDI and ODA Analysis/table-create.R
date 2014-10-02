@@ -1,5 +1,6 @@
-## Construct table to compare Official Development Assistant per capita
-## received in 2012 with Human Development Index in 2013
+## This script constructs a table to include data about
+## Official Development Assistance received per capita in 2012
+## and Human Development Index in 2013, to allow for further future analysis
 
 ## Read in file of ODA data
 data <- read.csv("ODA Data.csv")
