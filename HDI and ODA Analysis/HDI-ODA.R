@@ -2,7 +2,7 @@
 ## received in 2012 with Human Development Index in 2013
 
 ## Read in file of ODA data
-data <- read.csv("dt.oda.odat.pc.zs_Indicator_en_csv_v2.csv")
+data <- read.csv("ODA Data.csv")
 
 ## Select columns with Country Name and 2012 Data only
 oda <- data.frame(data$Country.Name, data$X2012)
