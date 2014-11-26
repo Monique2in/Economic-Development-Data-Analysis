@@ -1,5 +1,4 @@
 ## Calculations on ODA vs HDI Data
-## setwd("/Users/Monique/Documents/Programming/Economic-Development-Data-Analysis/HDI and ODA Analysis")
 
 ## Calculating correlation between ODA in 2012, and HDI in 2013.
 table <- read.table("ODA vs HDI", header=TRUE)
